@@ -1,3 +1,3 @@
 # Quantenphysik
 
-https://hub.gesis.mybinder.org/user/markostreich-quantenphysik-i4fkx6nq/doc/tree/Quantenphysik.ipynb
+[![Binder](https://gesis.mybinder.org/badge_logo.svg)](https://gesis.mybinder.org/v2/gh/markostreich/Quantenphysik.git/main?urlpath=%2Fdoc%2Ftree%2FQuantenphysik.ipynb)
